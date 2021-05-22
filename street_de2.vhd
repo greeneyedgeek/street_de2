@@ -7,7 +7,7 @@
 -- (c) Marco Winzker, Hochschule Bonn-Rhein-Sieg, 02.05.2019
 --
 -- Edited by Gabriel F. Escobar, 22.05.2021
--- Adapted DE10-lite code to work on a DE2-35 board
+-- Adapted the original DE10-lite code to run on a DE2-35 board
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
